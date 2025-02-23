@@ -1,5 +1,5 @@
 # 💫 About Me:
- About Me<br>👨‍💻 Frontend-разработчик | React, TypeScript, Next.js | Веб-приложения<br>📧 Email: sakenpolatov@gmail.com<br>💬 Telegram: @pielieordie<br><br>🚀 Фронтенд-разработчик с годом опыта.<br>Создаю современные веб-приложения на React, TypeScript, Next.js.<br>Опыт в MongoDB, Firebase, RTK Query, Tailwind.<br>Интегрирую авторизацию через токены, API, Yandex Maps, Telegram Mini Apps.
+ About Me<br>👨‍💻 Frontend-разработчик | React, TypeScript, Next.js | Веб-приложения<br>📧 Email: sakenpolatov@gmail.com<br>💬 Telegram: @pielieordie<br><br>🚀<br>Создаю современные веб-приложения на React, TypeScript, Next.js.<br>Опыт в MongoDB, Firebase, RTK Query, Tailwind.<br>Интегрирую авторизацию через токены, API, Yandex Maps, Telegram Mini Apps.
 
 
 ## 🌐 Socials:
