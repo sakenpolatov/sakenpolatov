@@ -1,10 +1,10 @@
 # 💫 About Me:
- About Me<br>👨‍💻 Frontend-разработчик | React, TypeScript, Next.js | Веб-приложения<br><br>🚀<br>Создаю современные веб-приложения на React, TypeScript, Next.js.<br>Опыт в MongoDB, Firebase, RTK Query, Tailwind.<br>Интегрирую авторизацию через токены, API, Yandex Maps, Telegram Mini Apps.
-
+ <br>👨‍💻 Frontend-разработчик | React, TypeScript, Next.js | Веб-приложения<br><br>🚀<br>Создаю современные веб-приложения на React, TypeScript, Next.js.<br>Опыт в MongoDB, Firebase, RTK Query, Tailwind.<br>Интегрирую авторизацию через токены, API, Yandex Maps, Telegram Mini Apps.
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakenpolatov@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sakenpolatov@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pielieordie)
+
 
 
 # 💻 Tech Stack:
