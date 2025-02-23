@@ -1,4 +1,4 @@
-# 👨‍💻 Frontend-разработчик | React, TypeScript, Next.js | Веб-приложения
+# 👨‍💻 Frontend-разработчик | Полатов Сакен | 
 
 ## 🚀 О себе
 Создаю современные веб-приложения на **React, TypeScript, Next.js**.  
