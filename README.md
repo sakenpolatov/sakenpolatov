@@ -1,15 +1,15 @@
 # 👨‍💻 Frontend-разработчик | Полатов Сакен | 
 
 ## 🚀 О себе
-Создаю современные веб-приложения на **React, TypeScript, Next.js**.  
-Опыт в **MongoDB, Firebase, RTK Query, Tailwind**.  
-Интегрирую **авторизацию через токены, API, Yandex Maps, Telegram Mini Apps**.  
+Фронтенд-разработчик с 2 годами опыта в создании веб- и мобильных приложений. Специализируюсь на React, Next.js, TypeScript, Redux Toolkit и разработке масштабируемых интерфейсов.
 
+Опыт работы с API (REST, Firebase, MongoDB), картографическими сервисами (Yandex Maps API).
+Создавал Telegram Mini Apps, веб-приложения с бесконечной лентой, графические редакторы и CRM-системы.
+Оптимизирую производительность, внедряю Lazy Loading, SSR, кеширование данных.
+Разрабатываю удобные UX/UI-интерфейсы, следуя современным стандартам.
+"Командный игрок".
 
-## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sakenpolatov@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pielieordie)
-
-
+Открыт к новым вызовам и опыту, создавать качественные и эффективные продукты!
 
 
 # 💻 Tech Stack:
